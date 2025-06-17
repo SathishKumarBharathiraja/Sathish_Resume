@@ -7,14 +7,14 @@ Analytical and adaptable Business Analyst with 6+ years of experience driving op
 
 # Core Competencies
 
--• Data Analysis & Visualization (Power BI, Excel, Tableau)
--• Business Process Improvement
--• Stakeholder Collaboration & Communication
--• Requirements Gathering & Documentation
--• Statistical Analysis & Problem Solving
--• Cross-functional Teamwork
--• Agile & Lean Methodologies
--• Time & Priority Management
+- • Data Analysis & Visualization (Power BI, Excel, Tableau)
+- • Business Process Improvement
+- • Stakeholder Collaboration & Communication
+- • Requirements Gathering & Documentation
+- • Statistical Analysis & Problem Solving
+- • Cross-functional Teamwork
+- • Agile & Lean Methodologies
+- • Time & Priority Management
 
 # Education
 ## MBA in Business Analytics
