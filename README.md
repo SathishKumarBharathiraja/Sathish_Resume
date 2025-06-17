@@ -7,14 +7,14 @@ Analytical and adaptable Business Analyst with 6+ years of experience driving op
 
 # Core Competencies
 
-• Data Analysis & Visualization (Power BI, Excel, Tableau)
-• Business Process Improvement
-• Stakeholder Collaboration & Communication
-• Requirements Gathering & Documentation
-• Statistical Analysis & Problem Solving
-• Cross-functional Teamwork
-• Agile & Lean Methodologies
-• Time & Priority Management
+-• Data Analysis & Visualization (Power BI, Excel, Tableau)
+-• Business Process Improvement
+-• Stakeholder Collaboration & Communication
+-• Requirements Gathering & Documentation
+-• Statistical Analysis & Problem Solving
+-• Cross-functional Teamwork
+-• Agile & Lean Methodologies
+-• Time & Priority Management
 
 # Education
 ## MBA in Business Analytics
@@ -26,30 +26,30 @@ University College of Engineering, Kanchipuram, India | 2015 | University Topper
 # Professional Experience
 ## Assistant Manager – Business Analysis & Operations
 TNQ Technologies Pvt Ltd, India | Oct 2020 – Jan 2024
-•	Analyzed operational data using SQL and Excel to identify bottlenecks, uncover process gaps, and recommend data-driven solutions that improved resolution efficiency.
-•	Developed and maintained Power BI dashboards to visualize KPIs and enable real-time decision-making for leadership and cross-functional stakeholders.
-•	Conducted root cause analysis and implemented corrective actions that significantly reduced case backlog and enhanced process turnaround.
-•	Collaborated with technology teams in Agile environments to define user stories, validate functionality, and ensure timely delivery of workflow automation tools.
-•	Delivered clear, actionable business insights and predictive analytics to leadership, enabling proactive resource allocation and risk mitigation.
-•	Standardized documentation processes and led training initiatives for new tools, improving user adoption and reducing onboarding time.
+-•	Analyzed operational data using SQL and Excel to identify bottlenecks, uncover process gaps, and recommend data-driven solutions that improved resolution efficiency.
+-•	Developed and maintained Power BI dashboards to visualize KPIs and enable real-time decision-making for leadership and cross-functional stakeholders.
+-•	Conducted root cause analysis and implemented corrective actions that significantly reduced case backlog and enhanced process turnaround.
+-•	Collaborated with technology teams in Agile environments to define user stories, validate functionality, and ensure timely delivery of workflow automation tools.
+-•	Delivered clear, actionable business insights and predictive analytics to leadership, enabling proactive resource allocation and risk mitigation.
+-•	Standardized documentation processes and led training initiatives for new tools, improving user adoption and reducing onboarding time.
 
 ## Senior Executive – Business Process Analyst & Customer Support
 TNQ Technologies Pvt Ltd, India | Mar 2019 – Oct 2020
-•	Collected and analyzed customer support data to identify patterns and forecast service demands, supporting strategic planning and resource allocation.
-•	Gathered and documented business and functional requirements, collaborating with technical teams to implement system enhancements.
-•	Partnered with cross-departmental teams to streamline workflows, reduce resolution time, and improve customer satisfaction metrics.
-•	Delivered data-driven reports and insightful dashboards to stakeholders across global teams, enabling continuous improvement and operational transparency.
-•	Contributed to Agile sprint planning and backlog grooming by translating business needs into clearly defined tasks and acceptance criteria.
+-•	Collected and analyzed customer support data to identify patterns and forecast service demands, supporting strategic planning and resource allocation.
+-•	Gathered and documented business and functional requirements, collaborating with technical teams to implement system enhancements.
+-•	Partnered with cross-departmental teams to streamline workflows, reduce resolution time, and improve customer satisfaction metrics.
+-•	Delivered data-driven reports and insightful dashboards to stakeholders across global teams, enabling continuous improvement and operational transparency.
+-•	Contributed to Agile sprint planning and backlog grooming by translating business needs into clearly defined tasks and acceptance criteria.
 
 # Certifications
 
-•	Lean Six Sigma Yellow Belt, TNQ Technologies (2018)
-•	SQL for Data Scientists (2025)
-•	Power BI and Python (in progress)
+-•	Lean Six Sigma Yellow Belt, TNQ Technologies (2018)
+-•	SQL for Data Scientists (2025)
+-•	Power BI and Python (in progress)
 
 # Technical Skills
 
-•	Visualization: Tableau, Power BI, Looker Studio
-•	Data Tools: Excel (Advanced), SQL (basics), Pivot Tables, KPI Dashboards
-•	Documentation: SOPs, BRDs, Training Materials
-•	Other Tools: PowerPoint, Word, Outlook, CRM Systems, Video Editing
+-•	Visualization: Tableau, Power BI, Looker Studio
+-•	Data Tools: Excel (Advanced), SQL (basics), Pivot Tables, KPI Dashboards
+-•	Documentation: SOPs, BRDs, Training Materials
+-•	Other Tools: PowerPoint, Word, Outlook, CRM Systems, Video Editing
